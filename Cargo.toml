@@ -6,3 +6,25 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+
+[[bin]]
+name = "problem1"
+path  = "src/problem1.rs"
+
+[[bin]]
+name = "problem2"
+path  = "src/problem2.rs"
+
+[[bin]]
+name = "problem3"
+path  = "src/problem3.rs"
+
+[[bin]]
+name = "problem4"
+path  = "src/problem4.rs"
+
+[[bin]]
+name = "problem5"
+path  = "src/problem5.rs"
+
